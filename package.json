@@ -1,0 +1,23 @@
+{
+  "name": "mastering-API-s",
+  "version": "1.0.0",
+  "description": "working with API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scott95100/mastering-API-s.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/scott95100/mastering-API-s/issues"
+  },
+  "homepage": "https://github.com/scott95100/mastering-API-s#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
